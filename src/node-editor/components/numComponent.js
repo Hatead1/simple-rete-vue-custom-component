@@ -28,7 +28,10 @@ var CustomNode = {
 };
 
 export class NumComponent extends Rete.Component {
-    constructor(){ super("Number"); }
+    constructor(){ super("Number"); 
+        this.data.component = CustomNode;
+        this.data.render = 'vue';
+    }
 
     builder(node) {
         var out1 = new Rete.Output('num', "Number", NumSocket);
