@@ -4,11 +4,11 @@
 
 ### Clone repository
 ```
-git clone https://github.com/Hatead1/simple-rete-vue-app
+git clone https://github.com/Hatead1/simple-rete-vue-custom-component
 ```
 ### Change directory
 ```
-cd simple-rete-vue-app/
+cd simple-rete-vue-custom-component/
 ```
 ### Install npm modules
 ```
