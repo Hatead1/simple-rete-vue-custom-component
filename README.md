@@ -1,4 +1,4 @@
-# simple - Vue application with Rete.js
+# simple - Vue application with Rete.js (custom component)
 
 ## Project setup
 
